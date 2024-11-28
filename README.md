@@ -1,7 +1,3 @@
-Here's the README for the Java project based on your `HomePage` class:
-
----
-
 # Employee Management System
 
 ## Table of Contents
@@ -26,7 +22,7 @@ Before running this project, ensure that you have the following installed:
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/[YourUsername]/[YourRepoName].git
+   git clone https://github.com/Rajpatil264/Minor-Project.git
    ```
 2. Open the project in your preferred Java IDE.
 3. Build and run the project.
@@ -48,7 +44,8 @@ Before running this project, ensure that you have the following installed:
 ## Usage
 1. Run the `HomePage` class from your IDE:
    ```bash
-   java EmployeeManagement.HomePage
+   javac EmployeeManagement.java
+   java EmployeeManagement
    ```
 2. The main window will appear with a menu bar containing options for managing employee information:
    - **Profile**: Add and view employee details.
