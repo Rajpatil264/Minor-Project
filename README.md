@@ -66,6 +66,3 @@ For any questions or feedback, feel free to reach out to me:
 - **Name**: Rajvardhan Patil
 - **Email**: raj2003patil@gmail.com 
 
----
-
-Replace `[YourUsername]`, `[YourRepoName]`, `[Your Name]`, and `[Your Email]` with the relevant information.
