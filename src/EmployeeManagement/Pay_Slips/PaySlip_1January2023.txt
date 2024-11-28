@@ -1,0 +1,10 @@
+DR Pvt. Ltd
+
+Employee ID: 1
+Employee Name: dhanashri
+Email: dhanu@123
+
+Salary Details:
+Basic Salary: 50000.0
+
+Generated for January 2023

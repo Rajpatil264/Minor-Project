@@ -1,0 +1,10 @@
+DR Pvt. Ltd
+
+Employee ID: 4
+Employee Name: anonymous
+Email: anonymous@gmail.com
+
+Salary Details:
+Basic Salary: 100000.0
+
+Generated for January 2023
